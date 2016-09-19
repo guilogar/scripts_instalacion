@@ -1,0 +1,9 @@
+[Desktop Entry]
+
+Version=1.0
+Encondig=UTF-8
+Name=init_vnc
+Exec=vncserver-x11 -ShowStatus
+StartupNotify=true
+Terminal=false
+Type=Application
